@@ -4,5 +4,5 @@ Andy Resolusi
 - membuat website sederhana
 - belajar backend menggunakan NodeJS
 - membuat project dengan menggunakan NodeJS
-- membuat merch shop
+- membuat simple games
 
