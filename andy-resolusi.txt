@@ -1,0 +1,6 @@
+Andy Resolusi
+- belajar html dan css
+- belajar Javascript
+- membuat website sederhana
+- belajar backend menggunakan NodeJS
+- membuat project dengan menggunakan NodeJS
